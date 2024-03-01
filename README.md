@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Munesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <div display="flex">
-<div>
-  - 🔭 I’m currently working on **React.js**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneshkumar12" alt="muneshkumar12" /></a> </p>
+
+- 🔭 I’m currently working on **React.js**
 
 - 💬 Ask me about **Html,css,js,bootstrap,react.js etc...**
 
 - 📫 How to reach me **munesh788mk@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-</div>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneshkumar12" alt="muneshkumar12" /></a> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
